@@ -1,0 +1,21 @@
+{
+    "name": "UserEditInfo",
+    "version": "0.1",
+    "description": "This extension will give User's Edit info.",
+    "url": "https://www.mediawiki.org/wiki/Extension:UserEditInfo",
+    "author": "Jay Prakash",
+    "license-name": "MIT",
+    "type": "specialpage",
+    "AutoloadClasses": {
+        "SpecialUserEditInfo": "SpecialUserEditInfo_body.php"
+    },
+    "SpecialPages": {
+        "UserEditInfo": "SpecialUserEditInfo"
+    },
+    "MessagesDirs": {
+        "MyExtension": [
+            "i18n"
+        ]
+    },
+    "manifest_version": 1
+}
