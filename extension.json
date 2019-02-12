@@ -13,7 +13,7 @@
         "UserEditInfo": "SpecialUserEditInfo"
     },
     "MessagesDirs": {
-        "MyExtension": [
+        "UserEditInfo": [
             "i18n"
         ]
     },
